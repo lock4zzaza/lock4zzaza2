@@ -28,7 +28,7 @@ img{
     margin-left: 750px;
 }
 .item_lista_cabecalho{
-    color: aqua;
+    color: gray;
     font-size: 30px;
     list-style: none;
     padding-left: 50px;   
@@ -36,5 +36,5 @@ img{
 .logo_cabecalho{
     width: 260px;
     margin-left: 750px;
-    margin-top: 80px;
+    margin-top: 100px;
 }
