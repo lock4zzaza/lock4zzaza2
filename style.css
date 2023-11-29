@@ -1,10 +1,13 @@
 body{
      background: rgb(o,0,0);
 }
-h1{} 
-font size:60px;
-color:rgb(255,255,255);
-font-family:lucida sans´,
+h1{
+    font-size: 60px;
+    color: aqua;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+} 
+
 }
 p{
     font-size: 60px;
