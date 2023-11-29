@@ -25,16 +25,16 @@ img{
 }
 .lista_cabecalho{
     display: flex;
-    margin-left: 650px;
+    margin-left: 750px;
 }
 .item_lista_cabecalho{
     color: aqua;
-    font-size: 60px;
+    font-size: 30px;
     list-style: none;
     padding-left: 50px;   
 }
 .logo_cabecalho{
-    width: 360px;
+    width: 260px;
     margin-left: 750px;
     margin-top: 80px;
 }
