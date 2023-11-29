@@ -25,7 +25,7 @@ img{
 }
 .lista_cabecalho{
     display: flex;
-    margin-left: 750px;
+    margin-left: 650px;
 }
 .item_lista_cabecalho{
     color: gray;
