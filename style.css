@@ -6,6 +6,14 @@ font size:60px;
 color:rgb(255,255,255);
 font-family:lucida sans´,
 }
+p{
+    font-size: 60px;
+    color: aqua;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+}
 img{
     width: 300px;
-} height:
+    height: 200px;
+    margin: 60px;
+}
