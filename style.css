@@ -1,9 +1,9 @@
 body{
-     background: rgb(o,0,0);
+     background: gray
 }
 h1{
     font-size: 40px;
-    color: black;
+    color: white;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     text-align: center;
 } 
